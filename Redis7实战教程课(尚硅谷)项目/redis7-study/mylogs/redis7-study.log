@@ -1,0 +1,36 @@
+2023-11-29 14:32:49.393 [main] INFO  com.myxh.redis7.Redis7Study- Starting Redis7Study using Java 21.0.1 with PID 36292 (D:\CodeProjects\Java\Redis\Redis7实战教程课(尚硅谷)项目\redis7-study\target\classes started by MYXH in D:\CodeProjects\Java\Redis\Redis7实战教程课(尚硅谷)项目\redis7-study)
+2023-11-29 14:32:49.405 [main] INFO  com.myxh.redis7.Redis7Study- No active profile set, falling back to 1 default profile: "default"
+2023-11-29 14:32:50.646 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Multiple Spring Data modules found, entering strict repository configuration mode
+2023-11-29 14:32:50.653 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-11-29 14:32:50.702 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Finished Spring Data repository scanning in 19 ms. Found 0 Redis repository interfaces.
+2023-11-29 14:32:51.558 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer- Tomcat initialized with port(s): 7777 (http)
+2023-11-29 14:32:51.558 [main] INFO  org.apache.catalina.core.AprLifecycleListener- Loaded Apache Tomcat Native library [2.0.5] using APR version [1.7.4].
+2023-11-29 14:32:51.583 [main] INFO  org.apache.catalina.core.AprLifecycleListener- OpenSSL successfully initialized [OpenSSL 3.0.10 1 Aug 2023]
+2023-11-29 14:32:51.594 [main] INFO  org.apache.catalina.core.StandardService- Starting service [Tomcat]
+2023-11-29 14:32:51.595 [main] INFO  org.apache.catalina.core.StandardEngine- Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-11-29 14:32:51.822 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]- Initializing Spring embedded WebApplicationContext
+2023-11-29 14:32:51.823 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext- Root WebApplicationContext: initialization completed in 2318 ms
+2023-11-29 14:32:53.641 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer- Tomcat started on port(s): 7777 (http) with context path ''
+2023-11-29 14:32:53.654 [main] INFO  com.myxh.redis7.Redis7Study- Started Redis7Study in 5.103 seconds (process running for 7.325)
+2023-11-29 14:33:14.002 [http-nio-7777-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]- Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-11-29 14:33:14.003 [http-nio-7777-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet- Initializing Servlet 'dispatcherServlet'
+2023-11-29 14:33:14.004 [http-nio-7777-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet- Completed initialization in 1 ms
+2023-11-29 14:33:14.792 [http-nio-7777-exec-10] INFO  org.springdoc.api.AbstractOpenApiResource- Init duration for springdoc-openapi is: 132 ms
+2023-11-29 14:47:19.616 [main] INFO  com.myxh.redis7.Redis7Study- Starting Redis7Study using Java 21.0.1 with PID 37280 (D:\CodeProjects\Java\Redis\Redis7实战教程课(尚硅谷)项目\redis7-study\target\classes started by MYXH in D:\CodeProjects\Java\Redis\Redis7实战教程课(尚硅谷)项目\redis7-study)
+2023-11-29 14:47:19.618 [main] INFO  com.myxh.redis7.Redis7Study- No active profile set, falling back to 1 default profile: "default"
+2023-11-29 14:47:20.591 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Multiple Spring Data modules found, entering strict repository configuration mode
+2023-11-29 14:47:20.595 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-11-29 14:47:20.629 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Finished Spring Data repository scanning in 17 ms. Found 0 Redis repository interfaces.
+2023-11-29 14:47:21.229 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer- Tomcat initialized with port(s): 7777 (http)
+2023-11-29 14:47:21.231 [main] INFO  org.apache.catalina.core.AprLifecycleListener- Loaded Apache Tomcat Native library [2.0.5] using APR version [1.7.4].
+2023-11-29 14:47:21.238 [main] INFO  org.apache.catalina.core.AprLifecycleListener- OpenSSL successfully initialized [OpenSSL 3.0.10 1 Aug 2023]
+2023-11-29 14:47:21.252 [main] INFO  org.apache.catalina.core.StandardService- Starting service [Tomcat]
+2023-11-29 14:47:21.252 [main] INFO  org.apache.catalina.core.StandardEngine- Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-11-29 14:47:21.467 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]- Initializing Spring embedded WebApplicationContext
+2023-11-29 14:47:21.469 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext- Root WebApplicationContext: initialization completed in 1791 ms
+2023-11-29 14:47:22.958 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer- Tomcat started on port(s): 7777 (http) with context path ''
+2023-11-29 14:47:22.969 [main] INFO  com.myxh.redis7.Redis7Study- Started Redis7Study in 3.956 seconds (process running for 5.719)
+2023-11-29 14:47:46.999 [http-nio-7777-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]- Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-11-29 14:47:47.000 [http-nio-7777-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet- Initializing Servlet 'dispatcherServlet'
+2023-11-29 14:47:47.002 [http-nio-7777-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet- Completed initialization in 1 ms
+2023-11-29 14:47:47.716 [http-nio-7777-exec-4] INFO  org.springdoc.api.AbstractOpenApiResource- Init duration for springdoc-openapi is: 105 ms
